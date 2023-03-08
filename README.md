@@ -1,4 +1,4 @@
-# Places-Asynchronous-Networking-
+# Places-Asynchronous-Networking
 Lab for university
 
 #ТЗ
